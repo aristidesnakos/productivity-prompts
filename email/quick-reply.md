@@ -9,6 +9,8 @@ Reply to this email from my client.
 
 Context:
 - I am a [YOUR ROLE] at [YOUR COMPANY]
+- My [RELATIONSHIP] with [CLIENT]
+- My main objective is to [TALK ABOUT X]
 - My tone is professional but warm
 - Keep it under 100 words
 
