@@ -17,6 +17,7 @@ Context:
 Tone:
 - Professional and transparent
 - Focused and no unnecessary details
+- Succinct
 - Balanced, highlighting both successes and challenges
 
 Include:
