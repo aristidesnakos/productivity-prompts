@@ -4,28 +4,33 @@ Ready-to-use prompts for busy business owners. Copy, customize, use.
 
 ## Tools Covered
 
-- [Brave](https://brave.com) — Email writing
-- [Gemini Deep Research](https://gemini.google.com) — Research tasks
+- [Brave Leo AI](https://brave.com) — Email Writing
+- [Gemini Deep Research](https://gemini.google.com) — Research Tasks
 
-## Structure
+## Checklist
 
-Every prompt follows the **Input → Context → Output** pattern:
+Use this checklist to create or customize a prompt:
 
-1. **Input** — What you're giving the AI
-2. **Context** — Who you are, what you need, constraints
-3. **Output** — How you want the response formatted
+| Part         | Question to Ask                                | Example                                                                 |
+|--------------|------------------------------------------------|-------------------------------------------------------------------------|
+| **1. Task**  | What specific action do you want?              | "Write a weekly project update email to a client"                      |
+| **2. Context** | What background does the AI need?            | Commercial client, cares about timeline, professional but not stiff     |
+| **3. References** | What raw material are you providing?      | This week's notes: progress, delays, next steps, decisions needed       |
+| **4. Evaluation** | How will you know if it's good?           | Ends with one clear ask, issues section is brief, sounds like me        |
+| **5. Iteration** | What refinements might you need?           | "Make opening more direct" / "Bullet the milestones" / "Shorter"        |
 
 ## Prompts
 
-### Email (Dia)
+### Email (Brave Leo AI)
 
-| Prompt | Use Case |
-|--------|----------|
-| [Quick Reply](email/quick-reply.md) | Respond to client emails in <2 min |
-| [Cold Outreach](email/cold-outreach.md) | First contact to potential client/partner |
-| [Follow-Up](email/follow-up.md) | Nudge after no response |
-| [Bad News](email/bad-news.md) | Decline or deliver tough info gracefully |
-| [Handoff](email/handoff.md) | Introduce two people via email |
+| Prompt                           | Use Case                                                     |
+|-----------------------------------|-------------------------------------------------------------|
+| [Quick Reply](email/quick-reply.md) | Respond to client emails in <2 min                         |
+| [Cold Outreach](email/cold-outreach.md) | First contact to potential client/partner               |
+| [Follow-Up](email/follow-up.md)   | Nudge after no response                                     |
+| [Bad News](email/bad-news.md)     | Decline or deliver tough info gracefully                    |
+| [Handoff](email/handoff.md)       | Introduce two people via email                              |
+| [Project Update](email/project-update.md) | Provide a clear and concise update on project progress |
 
 ### Research (Gemini Deep Research)
 
@@ -42,7 +47,7 @@ Every prompt follows the **Input → Context → Output** pattern:
 1. Pick a prompt
 2. Copy the template
 3. Fill in the `[BRACKETED]` sections
-4. Paste into Dia or Gemini
+4. Paste into Brave Leo AI or Gemini Deep Research
 5. Review and adjust output
 
 ## Contributing
