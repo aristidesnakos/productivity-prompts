@@ -4,7 +4,7 @@ Ready-to-use prompts for busy business owners. Copy, customize, use.
 
 ## Tools Covered
 
-- [Dia](https://dia.com) — Email writing
+- [Brave](https://brave.com) — Email writing
 - [Gemini Deep Research](https://gemini.google.com) — Research tasks
 
 ## Structure
